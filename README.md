@@ -2,4 +2,6 @@
 
 this is a test repo.
 
-I wanted this change instead. So now all other branches must comply.
+This is an edit to the current branch.
+
+This is another edit to the NewBranch.
