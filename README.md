@@ -17,3 +17,6 @@ Here is my LAST EDIT.
 This is what I will submit, and there should be a merge conflict.
 
 WHAT WILL HAPPEN??
+
+MERGE CONFLICT.
+
